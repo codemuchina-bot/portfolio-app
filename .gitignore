@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.env*
+*.log
+.DS_Store
+# keep SSH keys out of the repo
+id_ed25519
+id_ed25519.pub
